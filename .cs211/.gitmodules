@@ -1,0 +1,10 @@
+[submodule "lib/ge211"]
+	path = lib/ge211
+	url = https://github.com/tov/ge211.git
+	branch = release
+	update = rebase
+[submodule "lib/catch"]
+	path = lib/catch
+	url = https://github.com/nu-cs211/catch.git
+	branch = main
+	update = rebase
